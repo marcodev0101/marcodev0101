@@ -46,7 +46,7 @@
 
 
  
-  ![Snake animation](https://github.com/marcodev0101/marcodev0101/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcodev0101/marcodev0101/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
