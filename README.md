@@ -37,8 +37,8 @@
 
 
 <div>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcoDmc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoDmc&hide=html&layout=compact&theme=gotham&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcodev0101&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodev0101&hide=html&layout=compact&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 
 <div> 
@@ -46,7 +46,7 @@
 
 
  
-  ![Snake animation](https://github.com/marcoDmc/marcoDmc/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcodev0101/marcodev0101/blob/output/github-contribution-grid-snake.svg)
 
  
 </div>
